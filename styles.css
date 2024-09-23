@@ -1,0 +1,45 @@
+body{
+    background-size: 1440px;
+    background-color: antiquewhite;
+}
+
+h1{
+    font-size: medium;
+    font-weight: 200;
+    text-align: center;
+}
+
+h2{
+    float: inline-start;
+    font-size:75%;
+    font-weight: 50;
+    justify-content:center;
+    text-align: center;
+}
+
+.box1{
+   background-color:  hsl(47, 88%, 63%);
+   background-size: cover;
+   width: 1300px;
+   height: 700px;
+   border: 1% solid yellow;
+   margin-left: 150px;
+   margin-top: 60px;
+}
+
+.d2{
+    background-color: hsl(0, 0%, 100%);
+    background-size: cover;
+    width: 350px;
+    height: 470px;
+    border-radius: 5%; 
+    margin-left: 500px;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.img1{
+    width: 80%;
+    height: 60%;
+    
+}
