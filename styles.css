@@ -21,28 +21,34 @@ h2{
    background-color:  hsl(47, 88%, 63%);
    background-size: cover;
    width: 1300px;
-   height: 700px;
+   height: 640px;
    border: 1% solid yellow;
-   margin: 5px auto;
+   margin: 50px auto;
    padding-top: 50px;
 }
 
 .box2{
     background-color: hsl(0, 0%, 100%);
     width: 340px;
-    height: 550px;
-    border: 1px solid black; 
-    border-radius: 10px;
+    height: 500px;
+    border: 1.5px solid black; 
+    border-radius: 15px;
     justify-content: center;
-    margin: 50px auto;
+    margin: 45px auto;
     box-shadow: 7px 7px 0px;
 }
 
 #img1{
     width: 87%;
-    height: 53%;
-    margin: 0px 22px;
-    border: 1px solid ;
+    height: 35%;
+    margin: 16px 22px;
+    border: 1px ;
     border-radius: 10px;
-    
 }
+
+.box2-contents{
+    margin-left: 45px;
+}
+
+
+
