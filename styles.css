@@ -7,15 +7,22 @@ h1{
     font-size: medium;
     font-weight: 200;
     text-align: center;
+
 }
 
 h2{
     float: inline-start;
     font-size:75%;
     font-weight: 50;
-    justify-content:center;
-    text-align: center;
+   margin-left: 600px;
 }
+#challenger{
+    margin-left: 900px;
+}
+#coder{
+    margin-left:50px;
+}
+
 
 .box1{
    background-color:  hsl(47, 88%, 63%);
